@@ -2,7 +2,7 @@
 
 An elegant, high-performance AI chat assistant for text and image generation, featuring advanced conversation management and a beautiful, customizable interface.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ahmedessmat2023-ctrl/generated-app-20251022-024325)
 
 ## About The Project
 
@@ -100,7 +100,7 @@ Deploy the application to your Cloudflare account with a single command. This wi
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ahmedessmat2023-ctrl/generated-app-20251022-024325)
 
 ## Project Structure
 
